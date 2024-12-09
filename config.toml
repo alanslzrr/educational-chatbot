@@ -1,0 +1,21 @@
+# .streamlit/config.toml
+
+[theme]
+base = "light"
+
+# Definir colores personalizados para la temática azul
+primaryColor = "#1E3A8A"  # Azul oscuro
+backgroundColor = "#E0F2FE"  # Azul claro
+secondaryBackgroundColor = "#DBEAFE"  # Azul medio
+textColor = "#0F172A"  # Texto en azul oscuro
+font = "sans serif"
+ 
+
+[runner]
+magicEnabled = true
+fastReruns = true
+enforceSerializableSessionState = false
+enumCoercion = "nameOnly"
+
+ 
+ 
