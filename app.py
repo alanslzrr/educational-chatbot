@@ -175,7 +175,7 @@ st.markdown(f"""
 
 # Función para la encuesta inicial
 def encuesta_inicial():
-    st.title("🎓 Chatbot Educativo")
+    st.title("🎓 DrwaingBridge - Chatbot Educativo")
     st.subheader("Un chatbot amigable para aprender jugando y explorando.")
     st.header("¡Hola! Cuéntame un poco sobre ti.")
     with st.form("formulario_encuesta"):
